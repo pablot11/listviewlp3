@@ -1,0 +1,11 @@
+D:\Escritorio\pryListView\bin\Debug\pryListView.exe.config
+D:\Escritorio\pryListView\bin\Debug\pryListView.exe
+D:\Escritorio\pryListView\bin\Debug\pryListView.pdb
+D:\Escritorio\pryListView\obj\Debug\pryListView.csproj.AssemblyReference.cache
+D:\Escritorio\pryListView\obj\Debug\pryListView.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\pryListView\obj\Debug\pryListView.Form1.resources
+D:\Escritorio\pryListView\obj\Debug\pryListView.Properties.Resources.resources
+D:\Escritorio\pryListView\obj\Debug\pryListView.csproj.GenerateResource.cache
+D:\Escritorio\pryListView\obj\Debug\pryListView.csproj.CoreCompileInputs.cache
+D:\Escritorio\pryListView\obj\Debug\pryListView.exe
+D:\Escritorio\pryListView\obj\Debug\pryListView.pdb

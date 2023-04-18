@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pryListView", "pryListView.csproj", "{A2555AA9-20CE-4B69-8520-34445E0A7B7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2555AA9-20CE-4B69-8520-34445E0A7B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2555AA9-20CE-4B69-8520-34445E0A7B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2555AA9-20CE-4B69-8520-34445E0A7B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2555AA9-20CE-4B69-8520-34445E0A7B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED084A2A-3181-4BF0-9FED-F18FE0EEC5D5}
+	EndGlobalSection
+EndGlobal
